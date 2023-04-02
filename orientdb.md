@@ -1,0 +1,2 @@
+OrientDB (https://orientdb.com/)
+OrientDB is an open-source, multi-model database that supports graph, document, and key-value data models. It is designed to be highly scalable and can handle large amounts of data across many commodity servers. OrientDB has a client-server architecture and can be deployed in a variety of ways, including embedded, client-server, and cloud. OrientDB can be accessed by Java or Python using official drivers provided by the company.
