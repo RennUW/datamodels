@@ -1,0 +1,2 @@
+RethinkDB (https://rethinkdb.com/)
+RethinkDB is an open-source, distributed NoSQL database that uses a JSON data model. It is designed to be highly available and can handle a variety of data types and structures. RethinkDB has a decentralized architecture and uses a peer-to-peer protocol to replicate data across multiple nodes. RethinkDB can be accessed by Java or Python using official drivers provided by the company.
