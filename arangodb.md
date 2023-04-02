@@ -1,0 +1,2 @@
+ArangoDB (https://www.arangodb.com/)
+ArangoDB is an open-source, multi-model database that supports document, graph, and key-value data models. It is designed to be highly scalable and can handle large amounts of data across many commodity servers. ArangoDB has a client-server architecture and can be deployed in a variety of ways, including embedded, client-server, and cloud. ArangoDB can be accessed by Java or Python using official drivers provided by the company.
