@@ -1,0 +1,2 @@
+MongoDB (https://www.mongodb.com/)
+MongoDB is a commercial, document-oriented database that uses a flexible and dynamic schema. It is a NoSQL database that stores data in JSON-like documents with dynamic schemas, which allows it to handle a variety of data types and structures. MongoDB has a client-server architecture and supports sharding for horizontal scaling. It also offers an embedded mode for small-scale deployments. MongoDB can be accessed by Java or Python using official drivers provided by the company.
