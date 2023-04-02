@@ -1,0 +1,2 @@
+InfluxDB (https://www.influxdata.com/)
+InfluxDB is a commercial, time-series database that is designed to handle large amounts of data that are time-stamped. It uses a key-value data model and is optimized for high write and query performance. InfluxDB has a client-server architecture and can be deployed in a variety of ways, including embedded, client-server, and cloud. InfluxDB can be accessed by Java or Python using official drivers provided by the company.
