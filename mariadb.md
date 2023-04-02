@@ -1,0 +1,2 @@
+MariaDB (https://mariadb.org/)
+MariaDB is an open-source, relational database management system that is a fork of MySQL. It uses the same data model and SQL language as MySQL, but with additional features and improvements. MariaDB supports a client-server architecture and can be deployed in a variety of ways, including embedded, client-server, and cloud. MariaDB can be accessed by Java or Python using official drivers provided by the company.
