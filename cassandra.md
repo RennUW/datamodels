@@ -1,0 +1,2 @@
+Cassandra (http://cassandra.apache.org/)
+Cassandra is an open-source, distributed NoSQL database that was originally developed by Facebook. It uses a column-family data model and is designed to handle large amounts of data across many commodity servers while maintaining high availability. Cassandra has a decentralized architecture and uses a peer-to-peer protocol to replicate data across multiple nodes. Cassandra can be accessed by Java or Python using official drivers provided by the Apache Software Foundation.
