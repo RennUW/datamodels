@@ -1,0 +1,2 @@
+CouchDB (https://couchdb.apache.org/)
+CouchDB is an open-source, document-oriented database that uses a JSON data model. It is designed to be highly available and can handle a variety of data types and structures. CouchDB has a decentralized architecture and uses a peer-to-peer protocol to replicate data across multiple nodes. CouchDB can be accessed by Java or Python using official drivers provided by the Apache Software Foundation.
